@@ -76,7 +76,7 @@ Your School
 ```
 
 ### 3. Create a `Hello, World!` Script
-Add a `hello_world_yourusername.xx` script to the `scripts` directory in any language of your choice! Here is an example:
+Add a `hello_world_yourusername.xx` script to the `programs` directory in any language of your choice! Here is an example:
 
 ```Javascript
 // LANGUAGE: Javascript
