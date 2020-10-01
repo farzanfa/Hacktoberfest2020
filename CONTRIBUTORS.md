@@ -22,3 +22,8 @@
  - Place: New Delhi, India
  - Bio: Student
  - GitHub: [jg7](https://github.com/jg7)
+ #### Name: [Anna Beatriz Lucena Lira]("https://github.com/annabeatrizlucena")
+ - Place: Campina Grande, Paraíba, Brasil
+ - Bio: Computer Science Student at UFCG, member of Elas@Computaçao
+ - GitHub: [annabeatrizlucena]("https://github.com/annabeatrizlucena")
+
