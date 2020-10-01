@@ -10,3 +10,7 @@
 - Place: Jaipur, Rajasthan
 - Bio: Programmer, Flutter developer
 - GitHub: [suraj0223](https://github.com/suraj0223)
+#### Name: Farzan T A
+ - Place: Tamilnadu
+ - Bio: Student
+ - GitHub: [farzanfa00](https://github.com/farzanfa00)
