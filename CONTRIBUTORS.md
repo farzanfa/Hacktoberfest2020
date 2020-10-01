@@ -6,3 +6,7 @@
 - Place: Jaipur, Rajasthan, India
 - Bio: Full Stack developer, tech enthusiast
 - GitHub: [poojarathore30](https://github.com/poojarathore30)
+#### Name: Farzan T A
+ - Place: Tamilnadu
+ - Bio: Student
+ - GitHub: [farzanfa00](https://github.com/farzanfa00)
