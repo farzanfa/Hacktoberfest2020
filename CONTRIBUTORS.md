@@ -14,3 +14,7 @@
  - Place: Tamilnadu
  - Bio: Student
  - GitHub: [farzanfa00](https://github.com/farzanfa00)
+#### Name: [Jatin](https://github.com/jg7)
+ - Place: New Delhi, India
+ - Bio: Student
+ - GitHub: [jg7](https://github.com/jg7)
