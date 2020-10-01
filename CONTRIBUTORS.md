@@ -2,10 +2,14 @@
  - Place: Aroor,Kerala
  - Bio: Student of TIST.
  - GitHub: [farzanfa](https://github.com/farzanfa)
- #### Name: [Pooja Rathore](https://github.com/poojarathore30)
+#### Name: [Pooja Rathore](https://github.com/poojarathore30)
 - Place: Jaipur, Rajasthan, India
 - Bio: Full Stack developer, tech enthusiast
 - GitHub: [poojarathore30](https://github.com/poojarathore30)
+#### Name: [Suraj Kumar](https://github.com/suraj0223)
+- Place: Jaipur, Rajasthan
+- Bio: Programmer, Flutter developer
+- GitHub: [suraj0223](https://github.com/suraj0223)
 #### Name: Farzan T A
  - Place: Tamilnadu
  - Bio: Student
@@ -14,3 +18,7 @@
 - Place: Chandigarh
 - Bio: First year student
 - GitHub: [talkishita](https://github.com/talkishita)
+#### Name: [Jatin](https://github.com/jg7)
+ - Place: New Delhi, India
+ - Bio: Student
+ - GitHub: [jg7](https://github.com/jg7)
