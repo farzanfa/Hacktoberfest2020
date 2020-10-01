@@ -1,0 +1,5 @@
+// LANGUAGE: Javascript
+// ENV: Node.js
+// AUTHOR: Faran T A
+// GITHUB: https://github.com/farzanfa00
+console.log('Hello, World!');
