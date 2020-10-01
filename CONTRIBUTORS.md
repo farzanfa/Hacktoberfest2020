@@ -22,3 +22,7 @@
  - Place: New Delhi, India
  - Bio: Student
  - GitHub: [jg7](https://github.com/jg7)
+#### Name: [Paulo](https://github.com/paulojuniore)
+ - Place: Paraíba, Brazil
+ - Bio: Computer Science student
+ - Github: [paulojuniore](https://github.com/paulojuniore)
