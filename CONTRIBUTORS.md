@@ -22,3 +22,7 @@
  - Place: New Delhi, India
  - Bio: Student
  - GitHub: [jg7](https://github.com/jg7)
+#### Name: [Justinus Hermawan](https://github.com/justinushermawan)
+ - Place: Jakarta, Indonesia
+ - Bio: C# Coder
+ - GitHub: [jg7](https://github.com/justinushermawan)
