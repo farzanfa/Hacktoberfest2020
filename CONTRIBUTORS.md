@@ -22,3 +22,7 @@
  - Place: New Delhi, India
  - Bio: Student
  - GitHub: [jg7](https://github.com/jg7)
+ #### Name: [Akshay tiwari](https://github.com/tvibhu12)
+ - Place: New Delhi, India
+ - Bio: Student
+ - GitHub: [tvibhu12](https://github.com/tvibhu12)
