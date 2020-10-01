@@ -10,3 +10,7 @@
  - Place: Tamilnadu
  - Bio: Student
  - GitHub: [farzanfa00](https://github.com/farzanfa00)
+#### Name: [Ishita](https://github.com/talkishita)
+- Place: Chandigarh
+- Bio: First year student
+- GitHub: [talkishita](https://github.com/talkishita)
