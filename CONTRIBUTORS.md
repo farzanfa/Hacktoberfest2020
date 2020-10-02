@@ -22,6 +22,10 @@
  - Place: New Delhi, India
  - Bio: Student
  - GitHub: [jg7](https://github.com/jg7)
+ #### Name: [Dede Saepulloh](https://github.com/dedesaepulloh)
+ - Place: West Java, Indonesia
+ - Bio: Student
+ - GitHub: [dedesaepulloh](https://github.com/dedesaepulloh)
 #### Name: [Justinus Hermawan](https://github.com/justinushermawan)
  - Place: Jakarta, Indonesia
  - Bio: C# Coder
