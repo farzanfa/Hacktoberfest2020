@@ -22,6 +22,10 @@
  - Place: New Delhi, India
  - Bio: Student
  - GitHub: [jg7](https://github.com/jg7)
+#### Name: [Rafael Sales](https://github.com/umphael)
+ - Place: Esperança/Brasil
+ - Bio: Studant
+ - GitHub: [umphael](https://github.com/umphael)
  #### Name: [Anna Beatriz Lucena Lira]("https://github.com/annabeatrizlucena")
  - Place: Campina Grande, Paraíba, Brasil
  - Bio: Computer Science Student at UFCG, member of Elas@Computaçao
