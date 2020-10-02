@@ -46,7 +46,7 @@
  - Place: New Delhi, India
  - Bio: Student
  - GitHub: [tvibhu12](https://github.com/tvibhu12)
- #### Name: [Raghesh Kumar](https://github.com/imaGIN22)
- - Place: Kerala, India
+ #### Name: [Thushar Kiran](https://github.com/thusharkiransd)
+ - Place: Kochi, India
  - Bio: Student
- - GitHub: [imaGIN22](https://github.com/imaGIN22)
+ - GitHub: [thusharkiransd](https://github.com/thusharkiransd)
