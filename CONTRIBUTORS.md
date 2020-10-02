@@ -50,3 +50,7 @@
  - Place: Kerala, India
  - Bio: Student
  - GitHub: [imaGIN22](https://github.com/imaGIN22)
+#### Name : [Nikhil Philip](https://github.com/NikhilPhilip385)
+ - Place: Kerala, India
+ - Bio: Student
+ - GitHub: [NikhilPhilip385](https://github.com/NikhilPhilip385)
