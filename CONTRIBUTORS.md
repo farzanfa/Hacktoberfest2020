@@ -50,3 +50,7 @@
  - Place: Kerala, India
  - Bio: Student
  - GitHub: [imaGIN22](https://github.com/imaGIN22)
+ #### Name: [S Sidharth](https://github.com/binarymatter)
+ - Place: Kerala
+ - Bio: Student of TIST
+ - GitHub: [binarymatter](https://github.com/binarymatter)
