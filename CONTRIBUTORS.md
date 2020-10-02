@@ -50,3 +50,8 @@
  - Place: Kerala, India
  - Bio: Student
  - GitHub: [imaGIN22](https://github.com/imaGIN22)
+ #### Name: [VAISHNAVI SB](GitHub link)
+- Place: kozhikode, kerala, india
+- Bio: student
+- GitHub: [vaishnavisb809](https://github.com/vaishnavisb809)
+
