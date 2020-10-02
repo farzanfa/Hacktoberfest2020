@@ -48,5 +48,5 @@
  - GitHub: [tvibhu12](https://github.com/tvibhu12)
   #### Name: [Simayon Thampi](https://github.com/Simayon)
  - Place: Kerala, India
- - Bio: Student, Hobbyist Programmer
+ - Bio: Student
  - GitHub: [Simayon](https://github.com/Simayon)
