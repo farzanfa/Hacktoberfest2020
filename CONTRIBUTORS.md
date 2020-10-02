@@ -50,3 +50,7 @@
  - Place: Kerala, India
  - Bio: Student
  - GitHub: [imaGIN22](https://github.com/imaGIN22)
+ #### Name: [Farzan F A](https://github.com/Farzanfa)
+- Place: Kerala, India
+- Bio: Student
+- GitHub: [Farzanfa](https://github.com/Farzanfa)
