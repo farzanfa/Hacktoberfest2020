@@ -22,6 +22,10 @@
  - Place: New Delhi, India
  - Bio: Student
  - GitHub: [jg7](https://github.com/jg7)
+#### Name: [Paulo](https://github.com/paulojuniore)
+ - Place: Paraíba, Brazil
+ - Bio: Computer Science student
+ - Github: [paulojuniore](https://github.com/paulojuniore)
  #### Name: [Dede Saepulloh](https://github.com/dedesaepulloh)
  - Place: West Java, Indonesia
  - Bio: Student
@@ -34,4 +38,3 @@
  - Place: New Delhi, India
  - Bio: Student
  - GitHub: [tvibhu12](https://github.com/tvibhu12)
-
