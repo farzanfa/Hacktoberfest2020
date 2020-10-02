@@ -26,3 +26,12 @@
  - Place: West Java, Indonesia
  - Bio: Student
  - GitHub: [dedesaepulloh](https://github.com/dedesaepulloh)
+#### Name: [Justinus Hermawan](https://github.com/justinushermawan)
+ - Place: Jakarta, Indonesia
+ - Bio: C# Coder
+ - GitHub: [jg7](https://github.com/justinushermawan)
+ #### Name: [Akshay tiwari](https://github.com/tvibhu12)
+ - Place: New Delhi, India
+ - Bio: Student
+ - GitHub: [tvibhu12](https://github.com/tvibhu12)
+
