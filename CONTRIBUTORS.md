@@ -46,6 +46,10 @@
  - Place: New Delhi, India
  - Bio: Student
  - GitHub: [tvibhu12](https://github.com/tvibhu12)
+  #### Name: [Simayon Thampi](https://github.com/Simayon)
+ - Place: Kerala, India
+ - Bio: Student
+ - GitHub: [Simayon](https://github.com/Simayon)
  #### Name: [Raghesh Kumar](https://github.com/imaGIN22)
  - Place: Kerala, India
  - Bio: Student
@@ -54,3 +58,15 @@
 - Place: Kerala, India
 - Bio: Student
 - GitHub: [Farzanfa](https://github.com/Farzanfa)
+ #### Name: [VAISHNAVI SB](GitHub link)
+- Place: kozhikode, kerala, india
+- Bio: student
+- GitHub: [vaishnavisb809](https://github.com/vaishnavisb809)
+ #### Name: [Zoraiz Asif](https://github.com/zoraizasif)
+- Place: Lahore, Pakistan
+- Bio: Angular Developer
+- GitHub: [zoraizasif](https://github.com/zoraizasif)
+ #### Name: [Nafla Diva](https://github.com/nafladiva)
+- Place: Aceh, Indonesia
+- Bio: Student
+- GitHub: [nafladiva](https://github.com/nafladiva)
