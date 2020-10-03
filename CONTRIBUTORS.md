@@ -58,5 +58,7 @@
 - Place: kozhikode, kerala, india
 - Bio: student
 - GitHub: [vaishnavisb809](https://github.com/vaishnavisb809)
-
-
+ #### Name: [SowmiyaNarayanan G]
+- Place: Chennai, India
+- Bio: Computer Vision Researcher
+- GitHub: [GSNCodes](https://github.com/GSNCodes)
