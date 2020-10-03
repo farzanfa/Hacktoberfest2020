@@ -46,6 +46,10 @@
  - Place: New Delhi, India
  - Bio: Student
  - GitHub: [tvibhu12](https://github.com/tvibhu12)
+  #### Name: [Simayon Thampi](https://github.com/Simayon)
+ - Place: Kerala, India
+ - Bio: Student
+ - GitHub: [Simayon](https://github.com/Simayon)
  #### Name: [Raghesh Kumar](https://github.com/imaGIN22)
  - Place: Kerala, India
  - Bio: Student
@@ -54,4 +58,5 @@
 - Place: kozhikode, kerala, india
 - Bio: student
 - GitHub: [vaishnavisb809](https://github.com/vaishnavisb809)
+
 
