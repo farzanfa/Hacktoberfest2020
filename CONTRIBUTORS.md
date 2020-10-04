@@ -46,6 +46,10 @@
  - Place: New Delhi, India
  - Bio: Student
  - GitHub: [tvibhu12](https://github.com/tvibhu12)
+#### Name: [Thushar Kiran](https://github.com/thusharkiransd)
+ - Place: Kochi, India
+ - Bio: Student
+ - GitHub: [thusharkiransd](https://github.com/thusharkiransd)
   #### Name: [Simayon Thampi](https://github.com/Simayon)
  - Place: Kerala, India
  - Bio: Student
@@ -58,6 +62,10 @@
 - Place: Kerala, India
 - Bio: Student
 - GitHub: [Farzanfa](https://github.com/Farzanfa)
+#### Name : [Nikhil Philip](https://github.com/NikhilPhilip385)
+ - Place: Kerala, India
+ - Bio: Student
+ - GitHub: [NikhilPhilip385](https://github.com/NikhilPhilip385)
  #### Name: [VAISHNAVI SB](GitHub link)
 - Place: kozhikode, kerala, india
 - Bio: student
@@ -70,3 +78,11 @@
 - Place: Aceh, Indonesia
 - Bio: Student
 - GitHub: [nafladiva](https://github.com/nafladiva)
+#### Name: [Ajay Agarwal](https://github.com/ajay-cogsci)
+- Place: Dehradun, India
+- Bio: Student
+- GitHub: [ajay-cosci](https://github.com/ajay-cogsci)
+ #### Name: [SowmiyaNarayanan G]
+- Place: Chennai, India
+- Bio: Computer Vision Researcher
+- GitHub: [GSNCodes](https://github.com/GSNCodes)
