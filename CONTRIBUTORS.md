@@ -46,6 +46,10 @@
  - Place: New Delhi, India
  - Bio: Student
  - GitHub: [tvibhu12](https://github.com/tvibhu12)
+#### Name: [Thushar Kiran](https://github.com/thusharkiransd)
+ - Place: Kochi, India
+ - Bio: Student
+ - GitHub: [thusharkiransd](https://github.com/thusharkiransd)
   #### Name: [Simayon Thampi](https://github.com/Simayon)
  - Place: Kerala, India
  - Bio: Student
@@ -74,3 +78,4 @@
 - Place: Chennai, India
 - Bio: Computer Vision Researcher
 - GitHub: [GSNCodes](https://github.com/GSNCodes)
+
