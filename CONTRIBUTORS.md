@@ -66,6 +66,10 @@
 - Place: Aceh, Indonesia
 - Bio: Student
 - GitHub: [nafladiva](https://github.com/nafladiva)
+#### Name: [Ajay Agarwal](https://github.com/ajay-cogsci)
+- Place: Dehradun, India
+- Bio: Student
+- GitHub: [ajay-cosci](https://github.com/ajay-cogsci)
  #### Name: [SowmiyaNarayanan G]
 - Place: Chennai, India
 - Bio: Computer Vision Researcher
