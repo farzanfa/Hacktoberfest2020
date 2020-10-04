@@ -58,6 +58,10 @@
  - Place: Kerala, India
  - Bio: Student
  - GitHub: [imaGIN22](https://github.com/imaGIN22)
+#### Name: [Shiva Hegde](https://github.com/SaintNerevar)
+ - Place: Karnataka, India
+ - Bio: Student at NITC
+ - GitHub: [SaintNerevar](https://github.com/SaintNerevar)
 #### Name : [Nikhil Philip](https://github.com/NikhilPhilip385)
  - Place: Kerala, India
  - Bio: Student
