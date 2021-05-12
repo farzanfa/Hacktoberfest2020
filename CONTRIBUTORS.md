@@ -90,3 +90,7 @@
 - Place: Chennai, India
 - Bio: Computer Vision Researcher
 - GitHub: [GSNCodes](https://github.com/GSNCodes)
+#### Name: [Prathima Kadari]
+- Place: Hyderabad, India
+- Bio: Embedded Engineer
+- GitHub: [prathimacode-hub](https://github.com/prathimacode-hub)
