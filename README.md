@@ -85,4 +85,4 @@ Add a `hello_world_yourusername.xx` script to the `programs` directory in any la
 console.log('Hello, World!');
 ```
 
-Name the file `hello_world_yourusername.xx`. e.g., `hello_world_farzan.js`.
+Name the file `hello_world_yourusername.xx`. e.g., `hello_world_farzan.js`....
