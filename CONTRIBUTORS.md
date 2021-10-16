@@ -90,3 +90,21 @@
 - Place: Chennai, India
 - Bio: Computer Vision Researcher
 - GitHub: [GSNCodes](https://github.com/GSNCodes)
+#### Name: [Developer Solaiman](https://github.com/developersolaiman)
+- Place: Jessore, Bangladesh
+- Bio: Student
+- GitHub: [DeveloperSolaiman](https://github.com/developersolaiman)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
